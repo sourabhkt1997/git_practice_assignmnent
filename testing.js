@@ -7,17 +7,6 @@ let count=0
      count++
   }
  }
-if(count!=2){
- console.log(i,"prime number")
-}else{
-console.log(i,"non prime number")
-}
-}
-
-
-
-
-
 
 if(count==2){
  console.log(i,"prime number")
